@@ -1,0 +1,4 @@
+php-runtime/
+uploads/profile_pictures/*
+!uploads/profile_pictures/.htaccess
+!uploads/profile_pictures/.gitkeep
